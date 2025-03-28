@@ -1,0 +1,2 @@
+# PowerShellAdministrator
+PowerShellAdministrator run as Administrator
